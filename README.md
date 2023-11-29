@@ -11,8 +11,9 @@ A simple Discord clone using HTML, CSS, and Tailwind CSS.
 
 
 ## Future Aspects:-
-Improved Responsiveness: The current version is not fully responsive, but I am actively working on enhancing its responsiveness.
-JavaScript Functionalities: I plan to incorporate JavaScript to add more dynamic features and interactions in the future.
+1)Improved Responsiveness: The current version is not fully responsive, but I am actively working on enhancing its responsiveness.
+
+2)JavaScript Functionalities: I plan to incorporate JavaScript to add more dynamic features and interactions in the future.
 
 
 ## Getting Started
