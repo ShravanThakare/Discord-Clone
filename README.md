@@ -9,8 +9,9 @@ A simple Discord clone using HTML, CSS, and Tailwind CSS.
 
 ## Tech Stack:-
 ![th (5)](https://github.com/ShravanThakare/Discord-Clone/assets/108409480/98b5b24b-e907-4d6c-b837-7b50ffef20a3)
-
 ![th (3)](https://github.com/ShravanThakare/Discord-Clone/assets/108409480/5e76d12d-e9ac-465a-a2dd-63088787582b)
+![th (6)](https://github.com/ShravanThakare/Discord-Clone/assets/108409480/dc08c5b2-11ee-4a69-a843-5ef865b618fa)
+
 
 
 ## Future Aspects:-
