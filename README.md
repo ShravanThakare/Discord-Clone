@@ -7,7 +7,8 @@ A simple Discord clone using HTML, CSS, and Tailwind CSS.
 ![Discord Clone Demo](link/to/demo.gif)
 
 
-## Tech Stack
+## Tech Stack:-
+![th (3)](https://github.com/ShravanThakare/Discord-Clone/assets/108409480/5e76d12d-e9ac-465a-a2dd-63088787582b)
 
 
 ## Future Aspects:-
