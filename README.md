@@ -4,7 +4,7 @@ A simple Discord clone using HTML, CSS, and Tailwind CSS.
 
 ## Demo
 
-![Discord Clone Demo](link/to/demo.gif)
+https://discordclonebyshravanthakare.netlify.app/
 
 
 ## Tech Stack:-
